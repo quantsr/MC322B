@@ -1,4 +1,4 @@
-# **MC322 - Turma <B> **
+# **MC322 - Turma <B>**
 
 # **Aluno**
     Max Arruda Braz
