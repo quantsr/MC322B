@@ -153,7 +153,9 @@ public class Main {
 			if(!input.equals("0")) {
 				if(seguradora.removerCliente(input)) {
 					System.out.println("Cliente removido com sucesso");
-				}		
+				}else{
+					System.out.println("Falha ao remover Cliente. Porfavor certifique-se de que digitou o cpf/cnpj corretamente.");	
+				}
 			}else {
 				end = true;
 			}
